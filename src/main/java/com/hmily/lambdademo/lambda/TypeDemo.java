@@ -1,4 +1,4 @@
-package com.hmily.lambdademo;
+package com.hmily.lambdademo.lambda;
 
 @FunctionalInterface
 interface IMath {

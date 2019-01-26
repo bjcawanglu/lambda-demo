@@ -1,6 +1,5 @@
-package com.hmily.lambdademo;
+package com.hmily.lambdademo.lambda;
 
-import java.text.DecimalFormat;
 import java.util.function.*;
 
 interface IMoneyFormat{
